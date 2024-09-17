@@ -1,0 +1,1 @@
+this is rock scissor paper game in which you will be playing with computer as your opponent and will choose randomly betweenn the rock , paper and scissors and the one who won their winning score will be incremented by one.
